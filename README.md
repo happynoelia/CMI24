@@ -9,11 +9,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto (nombre)
+**Titulo** :Cadogan
 
 **Web:**   https://    (url github.io)
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Noelia Campos Ferrer
 
 **Resumen** : lorem ipsun dolor.... 
 
