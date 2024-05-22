@@ -9,7 +9,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** :Cadogan
+**Titulo** : Cadogan
 
 **Web:**   https://    (url github.io)
 
