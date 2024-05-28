@@ -15,9 +15,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Noelia Campos Ferrer
 
-**Resumen** : lorem ipsun dolor.... 
+**Resumen** : Había una vez, en un lugar lejano un dragón. Un día tranquilo un caballero apareció y le robó a Pedro el Mapache. Encuentra y rescata a Pedro para que el dragón no se vuelva cani.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Juego de aventuras
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
