@@ -19,7 +19,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**  Juego de aventuras
 
-**Logotipo** :  ![marca](https://github.com/happynoelia/happynoelia.github.io/blob/main/galeria4.png)
+**Logotipo** :  ![logotipo](https://github.com/happynoelia/happynoelia.github.io/blob/main/Ilustracio%CC%81n_sin_ti%CC%81tulo.png)
 
 
 (insertar imágenes a resolucion de 100px alto)
