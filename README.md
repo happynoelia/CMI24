@@ -28,13 +28,13 @@ El logotipo hace referencia, como todo el estilo de mi juego, a juegos de los qu
 
 **Resolución:** 800x600px tamaño fijo
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**    Google Chrome, MS Edge, Firefox, IPhone
 
-**Tamaño proyecto:** XXMB 
+**Tamaño proyecto:** 99KB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : xx/xx/2024
+**Fecha** : 29/05/2024
 
 **Medios** (donde se tiene presencia relacionada):
 
@@ -43,7 +43,6 @@ El logotipo hace referencia, como todo el estilo de mi juego, a juegos de los qu
 - Instagram
 
 
-![marca](https://github.com/happynoelia/happynoelia.github.io/blob/main/galeria4.png)
 
 # 2. Memoria del proyecto 
 
@@ -90,7 +89,7 @@ Este  proyecto es interesante porque ...
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a gente que le guste el siseño visual de los juegos como: Dark Souls, Elden Ring o Bloodborne.
 
 
 
@@ -132,14 +131,14 @@ Este  proyecto es interesante porque ...
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
+* Musica:  Pixabay
 * Imágenes:  
 * Tipografía
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Procreate
 
 
 
