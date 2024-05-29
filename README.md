@@ -26,7 +26,7 @@ El logotipo hace referencia, como todo el estilo de mi juego, a juegos de los qu
 
 
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 800x600px tamaño fijo
 
 **Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
 
