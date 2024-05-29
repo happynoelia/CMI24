@@ -20,6 +20,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Estilo/género:**  Juego de aventuras
 
 **Logotipo** :  ![logotipo](https://github.com/happynoelia/happynoelia.github.io/blob/main/Ilustracio%CC%81n_sin_ti%CC%81tulo.png)
+
 El logotipo hace referencia, como todo el estilo de mi juego, a juegos de los que me inspirado siempre, en el caso del logo incluyo una marca reconocible para la gente que le guste el manga. También he añadido a Pedro el Mapache al ser el protagonista del juego.
 
 
