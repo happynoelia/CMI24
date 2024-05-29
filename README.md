@@ -40,7 +40,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Instagram
 
 
-![marca](https://github.com/happynoelia/happynoelia.github.io/blob/main/marca.png)
+![marca](https://github.com/happynoelia/happynoelia.github.io/blob/main/galeria4.png)
 
 # 2. Memoria del proyecto 
 
