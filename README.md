@@ -134,8 +134,8 @@ En un viaje de vuelta con mi hermano a Valencia, estuvimos riéndonos de un meme
 
 ### Etapa 3: Problemas identificados
 
-El inutselect daba fallos qe se consiguieron solucionar.
-El otro aspecto, el vídeo de la galería suele generar fallos e incluso a veces o aparecer. Además, hay veces que la barra de sonido falla o no funciona como debería.
+El inutselect daba fallos que se consiguieron solucionar, realizando botones, es decir, cambiarlo.
+El otro aspecto, el vídeo de la galería suele generar fallos e incluso a veces no aparecer, en el navegador funciona de forma correcta pero en el enlace sule fallar.
 
 
 # 4. Conclusiones 
