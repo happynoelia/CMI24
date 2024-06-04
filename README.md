@@ -11,7 +11,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Cadogan
 
-**Web:**   https://happynoelia.github.io/practica2/
+**Web:**   [https://happynoelia.github.io/practica2/](https://happynoelia.github.io/practica2.html)
 
 **Autor:**  Noelia Campos Ferrer
 
