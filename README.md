@@ -56,10 +56,7 @@ En mi proyecto el jugador debe buscar a Pedro el Mapache, que esta atrapado eb u
 
 ### 2.2. Esquema de navegación 
 
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
+![esquema](https://github.com/happynoelia/happynoelia.github.io/blob/main/esquema.png)
 
 
 
