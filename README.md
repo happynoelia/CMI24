@@ -132,17 +132,16 @@ En un viaje de vuelta con mi hermano a Valencia, estuvimos riéndonos de un meme
   
 
 
-
 ### Etapa 3: Problemas identificados
 
 El inutselect daba fallos qe se consiguieron solucionar.
-El otro aspecto, el vídeo de la galería suele generar fallos e incluso a veces o aparecer. 
+El otro aspecto, el vídeo de la galería suele generar fallos e incluso a veces o aparecer. Además, hay veces que la barra de sonido falla o no funciona como debería.
 
 
 # 4. Conclusiones 
 
 (explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
+Noha estoy del todo cntenta con el juego porque me hubiera gustado mejorarlo más y hacer más mini juegos. El gran inconveiente durante la creación del juego ha sido el tiempo, las limitaciones tanto del progama como por mis conocimientos sobre programación. Me gustaría intentar mejorar el juego y hacerlo más largo en un futuro.
 
 
 
@@ -158,8 +157,8 @@ El otro aspecto, el vídeo de la galería suele generar fallos e incluso a veces
 **Recursos y materiales audiovisuales:**
 
 * Musica:  Pixabay
-* Imágenes:  
-* Tipografía
+* Imágenes:  Pinterest y creación propia
+* Tipografía: Tanto de Procreate como de Google Font.
 
 **Herramientas utilizadas**
 
