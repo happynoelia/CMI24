@@ -47,6 +47,7 @@ El logotipo hace referencia, como todo el estilo de mi juego, a juegos de los qu
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
+![storyboard](https://github.com/happynoelia/happynoelia.github.io/blob/main/storyboard.png)
 En mi proyecto el jugador debe buscar a Pedro el Mapache, que esta atrapado eb una mazmorra por un terrible dragón. Hay un diálogo previo donde se narra los sucesos para localizar al jugador en la historia y lo que tiene que hacer cuando llegue a la pantalla del mapa. En el mapa derá pulsar encontrar a Pedro para acceder a la siguiente escena y así realizar el juego de buscar a Pedro. Una vez que lo encuentre saltará un vídeo de un meme de Pedro Pedro pe. Después de esto se volverá al mapa, pudiendo disfrutar de ibservar la galeía de imágenes o los créditos.
 
 
